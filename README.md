@@ -23,8 +23,6 @@
   </picture>
 </p>
 
-> SVG'nin kendisi zaten sürekli oynayan bir animasyon (statik resim değil) ve tarayıcı/sistem temasına göre otomatik açık/koyu değişir. `.github/workflows/snake.yml` içindeki GitHub Action tarafından otomatik üretilir (her 12 saatte bir + her push'ta yenilenir). Kurulum adımları en altta.
-
 ## 🌐 Sosyal Medya
 
 <p align="center">
