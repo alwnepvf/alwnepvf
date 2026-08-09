@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben ALWNE 👋</h1>
+<h1 align="center">Merhaba, ben alwnepvf 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7289DA&center=true&vCenter=true&width=600&lines=Web+%2B+Game+%2B+Software+Developer;Discord+Bot+%26+FiveM+Geli%C5%9Ftirici;Fikri+3'te+projeye+%C3%A7eviren+adam+%F0%9F%9A%80" alt="Typing SVG" />
@@ -23,11 +23,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <img alt="github contribution grid snake animated gif" src="https://raw.githubusercontent.com/alwnepvf/alwnepvf/output/github-contribution-grid-snake.gif" width="80%" />
-</p>
-
-> Üstteki SVG, tarayıcı/sistem temasına göre otomatik açık/koyu değişir. Alttaki GIF ise gerçek zamanlı, sürekli oynayan animasyon versiyonudur. İkisi de `.github/workflows/snake.yml` içindeki GitHub Action tarafından otomatik üretilir (her 12 saatte bir + her push'ta yenilenir). Kurulum adımları en altta.
+> SVG'nin kendisi zaten sürekli oynayan bir animasyon (statik resim değil) ve tarayıcı/sistem temasına göre otomatik açık/koyu değişir. `.github/workflows/snake.yml` içindeki GitHub Action tarafından otomatik üretilir (her 12 saatte bir + her push'ta yenilenir). Kurulum adımları en altta.
 
 ## 🌐 Sosyal Medya
 
